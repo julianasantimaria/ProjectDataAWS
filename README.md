@@ -1,4 +1,4 @@
-# Data extraction, processing (ETL) and visualization - AWS
+# Data extraction, processing (ETL) and visualization
 
 ## Project description
 This is a data extraction project from a public website (city of Boston, USA), where data is extracted and saved locally. After that, the data is saved in S3 in medallion format (bronze, silver and gold) processed by the Glue tool, which integrates with S3, between treatments, table view in Athena and viewed in QuickSight.
@@ -9,7 +9,7 @@ This is a data extraction project from a public website (city of Boston, USA), w
  <br/>
  <div style="text-align: center;">
   <picture>
-    <img width="500px" src="https://github.com/julianasantimaria/ProjectDataAWS/blob/HTML/Data%20Extraction%2C%20project%2C%20treatment%20and%20Implementation.png">
+    <img width="800px" src="https://github.com/julianasantimaria/ProjectDataAWS/blob/HTML/Data%20Extraction%2C%20project%2C%20treatment%20and%20Implementation.png">
   </picture>
 </div>
 
