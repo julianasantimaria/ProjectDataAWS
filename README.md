@@ -9,7 +9,7 @@ This is a data extraction project from a public website (city of Boston, USA), w
  <br/>
  <div style="text-align: center;">
   <picture>
-    <img width="500px" src="https://github.com/julianasantimaria/python_backend/blob/HTML/giphy.gif">
+    <img width="500px" src="https://github.com/julianasantimaria/ProjectDataAWS/blob/HTML/Data%20Extraction%2C%20project%2C%20treatment%20and%20Implementation.png">
   </picture>
 </div>
 
@@ -31,7 +31,7 @@ This is a data extraction project from a public website (city of Boston, USA), w
 ## Installation
 1. **Navigate to the project directory**:
     ```bash
-    git clone [URL do seu repositório]
+    git clone [URL the your repository]
     ```
 2. **Navigate to the project directory**:
     ```bash
