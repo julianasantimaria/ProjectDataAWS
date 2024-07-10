@@ -16,12 +16,10 @@ This is a data extraction project from a public website (city of Boston, USA), w
  <br/>
 
 ## Project Features
-- **Requisições HTTP**: Executa operações GET, POST, PUT e DELETE.
-- **Manipulação de JSON**: Extrai e transforma dados no formato JSON.
-- **Interage com Vários Endpoints**: Acessa diferentes endpoints da API do GitHub.
-- **Tratamento de Status Codes**: Gerencia diversos status codes HTTP.
-- **Autenticação e Paginação**: Administra a autenticação e paginação de resultados.
-- **Orientação a Objetos**: Estrutura o código em classes e métodos para melhor organização e manutenção.
+- **HTTP Requests**: Performs GET operations.
+- **Extension handling**: Extracts and transforms data in JSON format, for CSV and Parquet.
+- **Interacts with Multiple Endpoints**: Accesses different API endpoints from the city of Boston, USA.
+- **Authentication and Pagination**: Manages authentication and results pagination in AWS.
 
 ## requirements
 - Python 3.8 or higher
