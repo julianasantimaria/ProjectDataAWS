@@ -9,7 +9,7 @@ This is a data extraction project from a public website (city of Boston, USA), w
  <br/>
  <div style="text-align: center;">
   <picture>
-    <img width="1000px" src="https://github.com/julianasantimaria/ProjectDataAWS/blob/HTML/Data%20Extraction%2C%20project%2C%20treatment%20and%20Implementation.png">
+    <img width="1000px" src="https://github.com/julianasantimaria/Projects_AWS/blob/HTML/Project1/Data%20Extraction%2C%20project%2C%20treatment%20and%20Implementation.png">
   </picture>
 </div>
 
